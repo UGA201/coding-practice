@@ -33,5 +33,5 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 - 그래프 (/3)
 
 ### Programmers 모든문제 By Level
-- Level 1 (3/49)
+- Level 1 (5/49)
 - Level 2 (/57)
