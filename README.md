@@ -13,8 +13,8 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 https://www.hackerrank.com/domains/sql
 
 SKILLS
-- Basic (/39)
-- Intermediate (/12)
+- Basic (7/39)
+- Intermediate (4/12)
 - Advanced (/4)
  
 
