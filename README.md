@@ -13,9 +13,9 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 https://www.hackerrank.com/domains/sql
 
 SKILLS
-- Basic (7/39)
-- Intermediate (4/12)
-- Advanced (/4)
+- Basic (39/40)
+- Intermediate (9/12)
+- Advanced (2/4)
  
 
 ## Python
