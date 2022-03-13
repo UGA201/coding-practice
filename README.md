@@ -16,7 +16,12 @@ SKILLS
 - Basic (39/40)
 - Intermediate (9/12)
 - Advanced (2/4)
- 
+
+### LeetCode SQL 문제풀이
+https://leetcode.com/problemset/database/
+- Easy (10)
+- Medium (3)
+- Hard (1)
 
 ## Python
 ### Programmers 코딩테스트 고득점 Kit 문제풀이
